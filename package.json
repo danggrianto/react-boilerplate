@@ -28,5 +28,10 @@
     "validator": "8.0.0",
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.9.0"
   }
 }
